@@ -229,5 +229,5 @@ int main()
     T.print();
     T.deleteValue(12);
     T.print();
-    return 0;;
+    return 0;
 }
